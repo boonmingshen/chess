@@ -1,0 +1,5 @@
+{
+  "name": "Bao Chess",
+  "description": "A Panda-themed chess game with unique capture animations and dynamic board flipping.",
+  "requestFramePermissions": []
+}
